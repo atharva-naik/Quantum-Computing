@@ -1,2 +1,2 @@
 # Quantum-Computing
-All codes for quantum computing algorithms implemented by me
+Implementations of some basic quantum algorithms
